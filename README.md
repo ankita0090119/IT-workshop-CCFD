@@ -1,1 +1,2 @@
 # Credit Card Fraud Detection
+Credit Card Fraud has become a significant concern for the banking sector, leading to substantial financial losses for both individuals and financial institutions. The objective of this project is to develop a brand new credit card fraud detection system using machine learning algorithms implemented in R. By leveraging advanced techniques, the project aims to improve the accuracy and efficiency of fraud detection, thereby reducing fraudulent activities and minimizing financial risks.
